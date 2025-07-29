@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-F6A208ED-0C34-4FDC-86ED-F9BCA2A85208.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-F6A208ED-0C34-4FDC-86ED-F9BCA2A85208.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -315,7 +315,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-9727DD87-6BFC-45EF-A97B-758D82839EB6.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-9727DD87-6BFC-45EF-A97B-758D82839EB6.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -441,7 +441,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-0A968ECC-FB83-47C1-8F70-BCB75BB14638.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-0A968ECC-FB83-47C1-8F70-BCB75BB14638.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -534,7 +534,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-6F9CD38B-734B-4DAC-AF4B-4D478EC39552.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-6F9CD38B-734B-4DAC-AF4B-4D478EC39552.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -604,7 +604,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-44754E3C-554B-472D-BE6D-D8136CF24459.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-44754E3C-554B-472D-BE6D-D8136CF24459.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -947,7 +947,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-FDD6B021-2167-462C-8AB3-596E4CCA8DF6.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-FDD6B021-2167-462C-8AB3-596E4CCA8DF6.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -984,7 +984,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-436A044B-73BE-49F2-9B20-EEE15E9AB32B.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-436A044B-73BE-49F2-9B20-EEE15E9AB32B.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1616,7 +1616,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://alaabensaid.github.io/demo/folder/bike-18EC222C-E289-464B-B72C-A402F39DF534.ipa</string>
+					<string>https://alaabensaid.github.io/demo/folder/Apps/bike-18EC222C-E289-464B-B72C-A402F39DF534.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bike.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A1F1394415CA26E11635EBEE1A4E0BF9491137A3</string>
+				<key>dateExpires</key>
+				<string>2028-07-28</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>82BVW3SXAU.ma.ocpgroup.robot-mobile</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>82BVW3SXAU</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>bike.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bb97188d-7f50-449a-8c42-b3a38c3f601d</string>
+				<key>dateExpires</key>
+				<string>2026-07-29</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: ma.ocpgroup.robot-mobile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>82BVW3SXAU</string>
+				<key>name</key>
+				<string>GROUPE OFFICE CHERIFIEN DES PHOSPHATES SA</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
